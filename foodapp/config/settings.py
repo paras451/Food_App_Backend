@@ -49,7 +49,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://food-app-frontend-psi-murex.vercel.app",
+    "https://pan-india-food.vercel.app/",
 ]
 
 # Application definition
